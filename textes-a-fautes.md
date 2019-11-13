@@ -4,7 +4,7 @@ Destiné aux enfants, ce jeu-exercice n’est pas, pour autant, interdit aux sen
 
 > Tapis sous de gros arbres, autour d’une petite église sainturée de peupliés, des maisons basses s’acrochaient à l’une des pentes d’un étroit vallon tandis que, sur l’autre versant, un imposent chateau fort, émergeant de la foret, faisait face au village.
 
-> Une seule route traversait ce dernier, en descendant vers la rivière, quelle franchissait sur un pont étroit et bonbé; puis elle grimpait à travers bois vers le château, et elle menait ensuite, à une bonne dixaine de kilomètres au-delà de la forêt, à la chapelle du Bois-Sacré, célèbre dans toute la région...
+> Une seule route traversait ce dernier, en descendant vers la rivière, qu'elle franchissait sur un pont étroit et bonbé; puis elle grimpait à travers bois vers le château, et elle menait ensuite, à une bonne dixaine de kilomètres au-delà de la forêt, à la chapelle du Bois-Sacré, célèbre dans toute la région...
 
 
 ## Corrigé : 
